@@ -2,3 +2,4 @@
 /images/
 /__MACOSX/
 dataset.zip
+training_checkpoints/my_ckpt
